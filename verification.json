@@ -1,0 +1,51 @@
+{
+  "scope": "Synthetic source-renderer fixture; not backend E2E",
+  "results": [
+    {
+      "width": 1280,
+      "state": "before",
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "state": "blocked",
+      "overflow": false,
+      "callback": "dismiss-import-warning",
+      "keyboard": true,
+      "refresh": true,
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "state": "dismissed",
+      "overflow": false,
+      "callback": "resume-import-tracking",
+      "keyboard": true,
+      "refresh": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "state": "before",
+      "errors": []
+    },
+    {
+      "width": 390,
+      "state": "blocked",
+      "overflow": false,
+      "callback": "dismiss-import-warning",
+      "keyboard": true,
+      "refresh": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "state": "dismissed",
+      "overflow": false,
+      "callback": "resume-import-tracking",
+      "keyboard": true,
+      "refresh": true,
+      "errors": []
+    }
+  ]
+}

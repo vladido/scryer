@@ -1,0 +1,13 @@
+{
+  "source_commit": "19e7d8e3921d551214ad549d1e375eafef24f227",
+  "baseline_commit": "58bcb748255d1b1e832aeaa08996e8f3191fcfc8",
+  "scope": "Synthetic source-renderer fixtures using real changed card/table components; not deployed backend E2E",
+  "screenshots": {
+    "1280-before.png": "ba2c7bcbd7aa1b934862f8ea8c4f62c78d5d0b286147faef53064cb84ea6e80f",
+    "1280-blocked.png": "45c8f493168a163880ca1ab0f25ec77ae59bea3314889faeff0ad9c137491a31",
+    "1280-dismissed.png": "7645d193ac55f1875c83308a56207356f7ec079ce9d689b1cbcf22af134e53f0",
+    "390-before.png": "30621730875f83b1782105ab3793fe8ee01395e7a74938e42fb1ad80c974c10f",
+    "390-blocked.png": "d86a8e30cd4319bbafd7bc8f338074a02b799203db41ef3b7f1124774556998c",
+    "390-dismissed.png": "16d865a4c045e9b41b35e6be03013dd25905d32cca44e3268b94b2b58fc7f574"
+  }
+}
